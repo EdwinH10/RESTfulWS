@@ -1,0 +1,6 @@
+#Archivo .gitignore para ignorar los archivos .class, .swp y los archivos de proyecto de tu IDE seleccionado. Por ejemplo,eclipse: .project, .metadata, etc. 
+.class
+.swp
+
+.project
+.metadata
