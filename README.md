@@ -27,5 +27,5 @@ Profesor: Zuriel Dathan Mora Félix
 ## Licencia
 
 ```
-En espera de información 
+Licencia libre
 ```
