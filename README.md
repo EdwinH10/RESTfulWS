@@ -7,13 +7,15 @@ Profesor: Zuriel Dathan Mora Félix
 ## Instalación
 
 ```
-En espera de información 
+1. Clonar repositorio
+2. Correr programa en servidor
 ```
 
 ## Uso
 
 ```
-En espera de información 
+1. loggearte con tus credenciales
+2. Subir archivos, listar, descargar o eliminar según se desee
 ```
 
 ## Créditos
